@@ -29,4 +29,4 @@ Git: Um dos mais populares e amplamente utilizados.
 
 Mercurial: Uma alternativa ao Git, oferecendo funcionalidades semelhantes. 
 
-Bazaar: Outra opção para sistemas de controle de versão distribuído.
+Bazaar: Outra opção para sistemas de controle de versão distribuído.asdfghjklç
